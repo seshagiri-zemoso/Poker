@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.Scanner;
 
-public class Game {
+public class PokerMain {
 	 static String file2 = "/home/seshagiri/zemoso/JAVA problem1/poker.txt";
 	 static char[] Suits = {'S','C','H','D'};
 	 static char[] Numbers = {'A', '2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K'};
